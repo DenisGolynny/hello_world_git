@@ -1,1 +1,1 @@
-# hello_world_git
+some notes
